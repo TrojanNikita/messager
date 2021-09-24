@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/trojan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trojan-scala" vcs="Git" />
   </component>
 </project>
